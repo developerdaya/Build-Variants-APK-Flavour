@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368538353375",
+    "project_id": "demonotification2-ddcdb",
+    "storage_bucket": "demonotification2-ddcdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368538353375:android:31cc89c7c258f1a9adb36a",
+        "android_client_info": {
+          "package_name": "com.developerdaya.demonotification2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB570yhgEkEZ3n7WRFOLPJ6pDyBl8Pz98k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
